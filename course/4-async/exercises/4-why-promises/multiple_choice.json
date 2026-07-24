@@ -1,7 +1,4 @@
 {
   "question": "Promises are the only way to write async JavaScript",
-  "answers": [
-    "False",
-    "True"
-  ]
+  "answers": ["False"]
 }
