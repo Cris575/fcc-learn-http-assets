@@ -1,9 +1,4 @@
 {
   "question": "The 'Status Code' header on the requests have ____ values.",
-  "answers": [
-    "numeric",
-    "string",
-    "boolean",
-    "object"
-  ]
+  "answers": ["numeric"]
 }
