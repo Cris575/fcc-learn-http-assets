@@ -1,9 +1,4 @@
 {
   "question": "In JSON, different fields in an object are seperated by a...",
-  "answers": [
-    "comma",
-    "semicolon",
-    "colon",
-    "period"
-  ]
+  "answers": ["comma"]
 }
