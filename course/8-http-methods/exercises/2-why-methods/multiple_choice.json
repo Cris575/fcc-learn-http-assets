@@ -1,8 +1,4 @@
 {
   "question": "HTTP methods map to crud actions ____",
-  "answers": [
-    "By convention",
-    "Always",
-    "Automatically"
-  ]
+  "answers": ["By convention"]
 }
