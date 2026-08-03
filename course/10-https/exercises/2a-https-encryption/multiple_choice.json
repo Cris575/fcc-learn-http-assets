@@ -1,7 +1,4 @@
 {
   "question": "HTTPS is essentially the same as HTTP with some additional security",
-  "answers": [
-    "True",
-    "False"
-  ]
+  "answers": ["True"]
 }
